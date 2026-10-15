@@ -47,10 +47,10 @@ Since VINS dataeset is from 2021, it was bound to not detect navigation bar and 
 <img width="222" height="483" alt="synth_00002618" src="https://github.com/user-attachments/assets/2b5b20df-71ad-40e4-a925-13b731b297c2" />
 
 ## Results
-<img width="222" height="483" alt="IMG_5004" src="https://github.com/user-attachments/assets/59f792ca-b8f6-43fa-9a11-1bf52c55435f" />
-<img width="222" height="483" alt="IMG_5003" src="https://github.com/user-attachments/assets/b4b771b3-50ac-4881-862f-ad2b9944bc0e" />
-<img width="222" height="483" alt="IMG_5001" src="https://github.com/user-attachments/assets/87fd5f0f-cba3-42ac-b8ea-f290ca4259f2" />
-<img width="222" height="483" alt="IMG_4999" src="https://github.com/user-attachments/assets/8372f073-f94e-49f5-99b9-0bd9c10db2af" />
+<img width="222" height="483" alt="IMG_5003" src="https://github.com/user-attachments/assets/59f792ca-b8f6-43fa-9a11-1bf52c55435f" />
+<img width="222" height="483" alt="IMG_5004" src="https://github.com/user-attachments/assets/b4b771b3-50ac-4881-862f-ad2b9944bc0e" />
+<img width="222" height="483" alt="IMG_4999" src="https://github.com/user-attachments/assets/87fd5f0f-cba3-42ac-b8ea-f290ca4259f2" />
+<img width="222" height="483" alt="IMG_5001" src="https://github.com/user-attachments/assets/8372f073-f94e-49f5-99b9-0bd9c10db2af" />
 
 
 # Resources
