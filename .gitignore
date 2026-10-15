@@ -1,0 +1,20 @@
+# macOS / Xcode
+.DS_Store
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.xcresult
+
+# Python
+__pycache__/
+*.pyc
+
+# Datasets, training runs and other large files (kept out of the repo)
+iphone/
+VINS_CreateML/
+HIGSynthDataset/
+runs/
+*.zip
+*.pt
+*.mlproj/
