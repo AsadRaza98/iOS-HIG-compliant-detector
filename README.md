@@ -38,5 +38,20 @@ Examples from the VINS dataset
 <img width="222" height="483" alt="IMG_4994" src="https://github.com/user-attachments/assets/4d834566-cd95-4604-b30d-ca0101aa97e4" />
 <img width="222" height="483" alt="IMG_4993" src="https://github.com/user-attachments/assets/2770bb08-35ec-432c-b5e8-708bd89632e7" />
 
+# A different approach
+Since VINS dataeset is from 2021, it was bound to not detect navigation bar and tab bar in the perfect way since iOS has upgraded a lot. The way around I could find for this problem was to produce dataset by myself on Swift. I generated 3000 screenshots of random screens just to be able to train the YOLO model on screen elements as per the latest iOS and Swift. The result was much better than the YINS dataset
+
+## Synthetic Dataset
+<img width="222" height="483" alt="synth_00002633" src="https://github.com/user-attachments/assets/09f76445-e87f-4636-a72b-b59ccf63d4e3" />
+<img width="222" height="483" alt="synth_00002621" src="https://github.com/user-attachments/assets/a58aeb0e-faa8-4448-8999-e711d10cd700" />
+<img width="222" height="483" alt="synth_00002618" src="https://github.com/user-attachments/assets/2b5b20df-71ad-40e4-a925-13b731b297c2" />
+
+## Results
+<img width="222" height="483" alt="IMG_5004" src="https://github.com/user-attachments/assets/59f792ca-b8f6-43fa-9a11-1bf52c55435f" />
+<img width="222" height="483" alt="IMG_5003" src="https://github.com/user-attachments/assets/b4b771b3-50ac-4881-862f-ad2b9944bc0e" />
+<img width="222" height="483" alt="IMG_5001" src="https://github.com/user-attachments/assets/87fd5f0f-cba3-42ac-b8ea-f290ca4259f2" />
+<img width="222" height="483" alt="IMG_4999" src="https://github.com/user-attachments/assets/8372f073-f94e-49f5-99b9-0bd9c10db2af" />
+
+
 # Resources
 1. The latest human interface guidelines can be found on https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developer.apple.com/design/human-interface-guidelines&ved=2ahUKEwiNi9-CxLmXAxX6_QIHHTS_BHMQFnoECB8QAQ&usg=AOvVaw0rKy6v8SnXBL92UJdGXdux
