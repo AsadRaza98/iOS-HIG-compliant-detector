@@ -7,7 +7,8 @@ From a coder's pov, an application's functionality is all that matters. If an ap
 This repository and code is written to develop such an app
 
 # Dataset
-Finding the dataset to train the model was the biggest challenge. The only publicly available dataset for iOS screens is the VINS dataset published in 2021. Filtered to the iOS screens, only 1200 screens could be extracted from there. The iOS version back in 2021 and the HIG rules have all changed completely since then.
+Finding the dataset to train the model was the biggest challenge. The only publicly available dataset for iOS screens is the VINS dataset published in 2021: https://github.com/sbunian/VINS.
+Filtered to the iOS screens, only 1200 screens could be extracted from there. The iOS version back in 2021 and the HIG rules have all changed completely since then.
 Mobbin (https://mobbin.com) promises recent screenshots of top apps but is a paid tool. 
 
 Examples from the VINS dataset
