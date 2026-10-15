@@ -12,9 +12,9 @@ Mobbin (https://mobbin.com) promises recent screenshots of top apps but is a pai
 
 Examples from the VINS dataset
 
-<img width="500" height="800" alt="IMG_3690" src="https://github.com/user-attachments/assets/3a4af3f8-a8ee-406d-b87a-ddc87125158f" />
+<img width="222" height="483" alt="IMG_3690" src="https://github.com/user-attachments/assets/3a4af3f8-a8ee-406d-b87a-ddc87125158f" />
 
-<img width="500" height="800" alt="IMG_855910" src="https://github.com/user-attachments/assets/2d81f11a-e21a-47b3-9641-75171a3cbb52" />
+<img width="222" height="483" alt="IMG_855910" src="https://github.com/user-attachments/assets/2d81f11a-e21a-47b3-9641-75171a3cbb52" />
 
 # Workflow
 1. Apple's built-in model Vision to detect text in a screenshot
@@ -27,16 +27,16 @@ Examples from the VINS dataset
 
 # Model Results
 
-<img width="500" height="800" alt="IMG_4922" src="https://github.com/user-attachments/assets/4534d280-05af-4421-92f9-ad4a8b7fe792" />
+<img width="222" height="483" alt="IMG_4922" src="https://github.com/user-attachments/assets/4534d280-05af-4421-92f9-ad4a8b7fe792" />
 
-<img width="500" height="800" alt="IMG_4913" src="https://github.com/user-attachments/assets/1cd73237-4df3-4b10-91d5-59735a1c3b70" />
+<img width="222" height="483" alt="IMG_4913" src="https://github.com/user-attachments/assets/1cd73237-4df3-4b10-91d5-59735a1c3b70" />
 
 
 # Final Application Screenshot
-<img width="500" height="800" alt="IMG_4996" src="https://github.com/user-attachments/assets/f6dfd048-0527-4c6c-8319-e38d3a0938c9" />
-<img width="500" height="800" alt="IMG_4995" src="https://github.com/user-attachments/assets/b09f5069-6f5f-49f4-8452-78f4dacfebfc" />
-<img width="500" height="800" alt="IMG_4994" src="https://github.com/user-attachments/assets/4d834566-cd95-4604-b30d-ca0101aa97e4" />
-<img width="500" height="800" alt="IMG_4993" src="https://github.com/user-attachments/assets/2770bb08-35ec-432c-b5e8-708bd89632e7" />
+<img width="222" height="483" alt="IMG_4996" src="https://github.com/user-attachments/assets/f6dfd048-0527-4c6c-8319-e38d3a0938c9" />
+<img width="222" height="483" alt="IMG_4995" src="https://github.com/user-attachments/assets/b09f5069-6f5f-49f4-8452-78f4dacfebfc" />
+<img width="222" height="483" alt="IMG_4994" src="https://github.com/user-attachments/assets/4d834566-cd95-4604-b30d-ca0101aa97e4" />
+<img width="222" height="483" alt="IMG_4993" src="https://github.com/user-attachments/assets/2770bb08-35ec-432c-b5e8-708bd89632e7" />
 
 # Resources
 1. The latest human interface guidelines can be found on https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developer.apple.com/design/human-interface-guidelines&ved=2ahUKEwiNi9-CxLmXAxX6_QIHHTS_BHMQFnoECB8QAQ&usg=AOvVaw0rKy6v8SnXBL92UJdGXdux
