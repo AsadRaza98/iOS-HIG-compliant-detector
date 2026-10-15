@@ -12,9 +12,9 @@ Mobbin (https://mobbin.com) promises recent screenshots of top apps but is a pai
 
 Examples from the VINS dataset
 
-<img width="600" height="1000" alt="IMG_3690" src="https://github.com/user-attachments/assets/3a4af3f8-a8ee-406d-b87a-ddc87125158f" />
+<img width="500" height="800" alt="IMG_3690" src="https://github.com/user-attachments/assets/3a4af3f8-a8ee-406d-b87a-ddc87125158f" />
 
-<img width="600" height="1000" alt="IMG_855910" src="https://github.com/user-attachments/assets/2d81f11a-e21a-47b3-9641-75171a3cbb52" />
+<img width="500" height="800" alt="IMG_855910" src="https://github.com/user-attachments/assets/2d81f11a-e21a-47b3-9641-75171a3cbb52" />
 
 # Workflow
 1. Apple's built-in model Vision to detect text in a screenshot
