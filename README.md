@@ -1,7 +1,7 @@
 # iOS-HIG-compliant-detector
 An iOS app built on top of a machine learning model to detect how much another ios app follows human interface guidelines suggested by Apple
 
-# Motivaton 
+# Motivation 
 From a coder's pov, an application's functionality is all that matters. If an app is functioning well, it serves the purpose. But users seldom use a functioning application if it's not pleasing to the eyes and designed in a user friendly way. To ensure that, Apple recommends Human Interface Guidelines for developers to follow which includes the color contrast, safe spaces, text fonts and sizes, and so-on. 
 
 This repository and code is written to develop such an app
